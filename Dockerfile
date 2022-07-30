@@ -1,5 +1,5 @@
 FROM python:3.9-alpine3.13
-LABEL maintainer="londonappdeveloper.com"
+LABEL maintainer="sigdeletras.com"
 
 ENV PYTHONUNBUFFERED 1
 
